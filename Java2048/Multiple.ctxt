@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Multiple
+comment0.text=\n\ Multiple\ class\ is\ a\ class\ that\ stores\ an\ integer\ value\ for\ a\ given\ multiple\ which\ is\ used\ in\ the\ game.\n\ @author\ Xingzhe\n\ @version\ 23/10\n
+comment1.params=
+comment1.target=Multiple()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Multiple\n\ Give\ the\ field\ value\ value\ of\ 0\n
+comment2.params=newValue
+comment2.target=Multiple(int)
+comment2.text=\n\ Non\ Default\ Constructor\ for\ objects\ of\ class\ Multiple\n\ @param\ newValue\ int\ to\ define\ the\ new\ value\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\n\ Accesor\ Method\ to\ get\ the\ value\ of\ the\ Multiple\n\ @return\ a\ single\ int\ which\ contains\ the\ value\n
+comment4.params=newValue
+comment4.target=void\ setValue(int)
+comment4.text=\n\ Mutator\ Method\ to\ set\ the\ value\ to\ Multiple\n\ @param\ newValue\ A\ single\ int\ which\ contains\ the\ value\n
+comment5.params=
+comment5.target=java.lang.String\ display()
+comment5.text=\n\ A\ method\ that\ print\ the\ value\n\ return\ a\ single\ String\n
+numComments=6
